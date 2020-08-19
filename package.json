@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-tailwindcss-typescript-starter",
+  "name": "nextjs-tailwindcss-typescript-eslint-prettier",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,16 +8,16 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "9.5.2",
-    "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "next": "^9.5.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
   },
   "devDependencies": {
     "@types/node": "^14.0.27",
     "@types/react": "^16.9.46",
     "autoprefixer": "^9.8.6",
     "postcss-import": "^12.0.1",
-    "tailwindcss": "^1.6.2",
+    "tailwindcss": "^1.7.2",
     "typescript": "^3.9.7"
   }
 }
