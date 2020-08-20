@@ -1,5 +1,7 @@
 # Next.js TailwindCSS Typescript Starter
-This is a [Next.js](https://nextjs.org/) 9.4, [TailwindCSS](https://tailwindcss.com/) 1.5, and [TypeScript](https://www.typescriptlang.org/docs/home.html) 3.9 starter template
+This is a [Next.js](https://nextjs.org/) 9.5, [TailwindCSS](https://tailwindcss.com/) 1.7, and [TypeScript](https://www.typescriptlang.org/docs/home.html) 3.9 starter template.
+
+Eslint and Prettier is configured. You can customize these configuration in `.eslintrc.js` and `.prettierrc.js`
 
 ## How to use this template
 Here're a few ways to create your new project using this template.
@@ -38,9 +40,5 @@ You can start editing the page by modifying `src/pages/index.js`. The page auto-
 ## Deploy on Vercel
 
 Once you have the project running locally you can [import](https://vercel.com/import/git) your project to Vercel and get it up and running in a few clicks.
-
-Other option is to click on the button below to create a new repository that look exactly like this one, and sets it up and running on Vercel. 
-
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vuongddang/nextjs-tailwindcss-typescript-starter/tree/master)
 
 Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
