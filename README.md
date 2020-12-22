@@ -12,7 +12,7 @@
     <img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square"></a>
 </p>
 
-This is a [Next.js](https://nextjs.org/) 10.0, [TailwindCSS](https://tailwindcss.com/) 1.9, and [TypeScript](https://www.typescriptlang.org/docs/home.html) 4.0 starter template.
+This is a [Next.js](https://nextjs.org/) 10.0, [TailwindCSS](https://tailwindcss.com/) 2.0, and [TypeScript](https://www.typescriptlang.org/docs/home.html) 4.0 starter template.
 
 Eslint and Prettier is configured. You can customize these configuration in `.eslintrc.js` and `.prettierrc.js`
 
